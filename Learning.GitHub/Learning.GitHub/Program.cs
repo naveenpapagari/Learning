@@ -9,6 +9,7 @@ namespace Learning.GitHub
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Learn Github");
         }
     }
 }
